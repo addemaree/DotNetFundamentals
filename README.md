@@ -3,15 +3,15 @@ A repo for learning the fundamentals of HTML
 
 
 # Things I Learned:
-* [Basics of HTML] (#basicsofhtml)
-* [Lists] (#lists)
-* [Links] (#links)
-* [Headings] (#headings)
-* [Tables] (#tables)
-* [Footer] (#footer)
-* [Images] (#images)
-* [Video] (#video)
-* [Navbar] (#navbar)
+* [Basics of HTML](#basicsofhtml)
+* [Lists](#lists)
+* [Links](#links)
+* [Headings](#headings)
+* [Tables](#tables)
+* [Footer](#footer)
+* [Images](#images)
+* [Video](#video)
+* [Navbar](#navbar)
 
 ## Basics of HTML
 Using basic HTML tags to create a simple message:

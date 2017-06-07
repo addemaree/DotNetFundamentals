@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_HTML", "1_HTML", "{4C452D51-177D-49A4-A060-AC8EC5338A6C}"
 	ProjectSection(SolutionItems) = preProject
@@ -29,11 +29,34 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{D86D0C64-68B
 		Godzilla.jpg = Godzilla.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTMLScreenShots", "HTMLScreenShots", "{BFE2B72A-79C2-4FCA-9707-3E83A86331A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\ScreenShots\HTMLScreenShots\footer.PNG = ..\ScreenShots\HTMLScreenShots\footer.PNG
+		..\ScreenShots\HTMLScreenShots\footerpage.PNG = ..\ScreenShots\HTMLScreenShots\footerpage.PNG
+		..\ScreenShots\HTMLScreenShots\headings.PNG = ..\ScreenShots\HTMLScreenShots\headings.PNG
+		..\ScreenShots\HTMLScreenShots\headingspage.PNG = ..\ScreenShots\HTMLScreenShots\headingspage.PNG
+		..\ScreenShots\HTMLScreenShots\helloworld.PNG = ..\ScreenShots\HTMLScreenShots\helloworld.PNG
+		..\ScreenShots\HTMLScreenShots\helloworldpage.PNG = ..\ScreenShots\HTMLScreenShots\helloworldpage.PNG
+		..\ScreenShots\HTMLScreenShots\images.PNG = ..\ScreenShots\HTMLScreenShots\images.PNG
+		..\ScreenShots\HTMLScreenShots\imagespage.PNG = ..\ScreenShots\HTMLScreenShots\imagespage.PNG
+		..\ScreenShots\HTMLScreenShots\links.PNG = ..\ScreenShots\HTMLScreenShots\links.PNG
+		..\ScreenShots\HTMLScreenShots\linkspage.PNG = ..\ScreenShots\HTMLScreenShots\linkspage.PNG
+		..\ScreenShots\HTMLScreenShots\lists.PNG = ..\ScreenShots\HTMLScreenShots\lists.PNG
+		..\ScreenShots\HTMLScreenShots\listspage.PNG = ..\ScreenShots\HTMLScreenShots\listspage.PNG
+		..\ScreenShots\HTMLScreenShots\navbar.PNG = ..\ScreenShots\HTMLScreenShots\navbar.PNG
+		..\ScreenShots\HTMLScreenShots\navbarpage.PNG = ..\ScreenShots\HTMLScreenShots\navbarpage.PNG
+		..\ScreenShots\HTMLScreenShots\tables.PNG = ..\ScreenShots\HTMLScreenShots\tables.PNG
+		..\ScreenShots\HTMLScreenShots\tablespage.PNG = ..\ScreenShots\HTMLScreenShots\tablespage.PNG
+		..\ScreenShots\HTMLScreenShots\video.PNG = ..\ScreenShots\HTMLScreenShots\video.PNG
+		..\ScreenShots\HTMLScreenShots\videopage.PNG = ..\ScreenShots\HTMLScreenShots\videopage.PNG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D86D0C64-68BD-4F5B-8C37-8C6E5EC95E0A} = {4C452D51-177D-49A4-A060-AC8EC5338A6C}
+		{BFE2B72A-79C2-4FCA-9707-3E83A86331A4} = {4C452D51-177D-49A4-A060-AC8EC5338A6C}
 	EndGlobalSection
 EndGlobal
